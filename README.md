@@ -3,10 +3,11 @@
 ![](soccer_pyramid.jpeg)
 
 
-From:
+Picture From:
 
 https://www.plus31sports.com/blog/soccer-system-usa
 
-By Lars Blenckers
+Article written by Lars Blenckers
+
 
 
