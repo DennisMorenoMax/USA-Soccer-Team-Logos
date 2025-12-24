@@ -1,6 +1,7 @@
 # USA Soccer Team Logos (2025 Season)
 
-This repository contains team pictures and logos from the **2025 season** of the United States soccer system.
+This repository contains team logos from the **2025 season** of the United States soccer system.
+Feel free to use these logos for **visualizations, dashboards, websites, or other soccer-related projects**.
 
 ## USA Men’s Soccer Logos
 - **MLS_2025** — Major League Soccer  
@@ -12,15 +13,16 @@ This repository contains team pictures and logos from the **2025 season** of the
 - **NWSL_2025** — National Women’s Soccer League  
 - **USL_SL_2025** — USL Super League 
 
-# USA Soccer System
+Maintained by Dennis Moreno
+
+## Learn More About the USA Men’s Soccer System
+If you would like to learn how the **USA men’s soccer system** is structured and how the leagues relate to each other, please read the  [**this article**](https://www.plus31sports.com/blog/soccer-system-usa)  written by **Lars Blenckers**:
 ![](soccer_pyramid.jpeg)
 
 
-Picture From:
 
-https://www.plus31sports.com/blog/soccer-system-usa
 
-Article written by Lars Blenckers
+
 
 
 
