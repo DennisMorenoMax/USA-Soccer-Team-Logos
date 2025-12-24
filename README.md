@@ -16,8 +16,9 @@ Feel free to use these logos for **visualizations, dashboards, websites, or othe
 Maintained by Dennis Moreno
 
 ## Learn More About the USA Men’s Soccer System
-If you would like to learn how the **USA men’s soccer system** is structured and how the leagues relate to each other, please read the  [**this article**](https://www.plus31sports.com/blog/soccer-system-usa)  written by **Lars Blenckers**:
+If you would like to learn how the **USA men’s soccer system** is structured and how the leagues relate to each other, please read  [**this article**](https://www.plus31sports.com/blog/soccer-system-usa)  written by **Lars Blenckers**:
 ![](soccer_pyramid.jpeg)
+
 
 
 
