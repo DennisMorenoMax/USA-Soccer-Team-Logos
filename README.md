@@ -1,3 +1,4 @@
 # USA Soccer System
 
-![](soccer pyramid.jpeg)
+![](soccer_pyramid.jpeg)
+
